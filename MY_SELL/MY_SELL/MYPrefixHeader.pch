@@ -1,0 +1,22 @@
+//
+//  MYPrefixHeader.pch
+//  MY_SELL
+//
+//  Created by yanma on 2017/6/1.
+//  Copyright © 2017年 yanma. All rights reserved.
+//
+
+#ifndef MYPrefixHeader_pch
+#define MYPrefixHeader_pch
+
+
+#import "MYHeaderDefine.h"
+#import "MYCommonDefine.h"
+#import "MYCommonKey.h"
+#import "MYMethodDef.h"
+
+#import "MYCommonDataTools.h"
+#import "MYCommonViewTools.h"
+#import "MYCommonTools.h"
+
+#endif /* MYPrefixHeader_pch */
