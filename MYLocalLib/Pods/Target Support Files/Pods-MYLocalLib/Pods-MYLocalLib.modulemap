@@ -1,0 +1,6 @@
+framework module Pods_MYLocalLib {
+  umbrella header "Pods-MYLocalLib-umbrella.h"
+
+  export *
+  module * { export * }
+}
